@@ -1,0 +1,15 @@
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\bin\Debug\net6.0\ODEV1.exe
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\bin\Debug\net6.0\ODEV1.deps.json
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\bin\Debug\net6.0\ODEV1.runtimeconfig.json
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\bin\Debug\net6.0\ODEV1.dll
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\bin\Debug\net6.0\ODEV1.pdb
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\ODEV1.csproj.AssemblyReference.cache
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\ODEV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\ODEV1.AssemblyInfoInputs.cache
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\ODEV1.AssemblyInfo.cs
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\ODEV1.csproj.CoreCompileInputs.cache
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\ODEV1.dll
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\refint\ODEV1.dll
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\ODEV1.pdb
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\ODEV1.genruntimeconfig.cache
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\ODEV1\obj\Debug\net6.0\ref\ODEV1.dll
