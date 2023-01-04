@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mucah\\OneDrive\\Masaüstü\\ODEV\\ODEV1\\ODEV1.csproj",
+      "projectUniqueName": "C:\\Users\\mucah\\OneDrive\\Masaüstü\\ODEV\\4-Farkli-Islem-Console-Uygulamasi\\ODEV1.csproj",
       "projectName": "ODEV1",
-      "projectPath": "C:\\Users\\mucah\\OneDrive\\Masaüstü\\ODEV\\ODEV1\\ODEV1.csproj",
+      "projectPath": "C:\\Users\\mucah\\OneDrive\\Masaüstü\\ODEV\\4-Farkli-Islem-Console-Uygulamasi\\ODEV1.csproj",
       "packagesPath": "C:\\Users\\mucah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mucah\\OneDrive\\Masaüstü\\ODEV\\ODEV1\\obj\\",
+      "outputPath": "C:\\Users\\mucah\\OneDrive\\Masaüstü\\ODEV\\4-Farkli-Islem-Console-Uygulamasi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
